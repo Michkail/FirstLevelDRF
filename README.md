@@ -16,30 +16,30 @@ The test consists in creating a Web API Project for a JobBoard website. Similar 
 ```
     FirstLevelDRF
         |_____ job_slurp
-        |          |_____ __pycache__
-        |          |           |_____ __init__.cpython-39.pyc
-        |          |           |_____ settings.cpython-39.pyc
-        |          |           |_____ urls.cpython-39.pyc
-        |          |           |_____ wsgi.cpython-39.pyc
-        |          |  
-        |          |_____ __init__.py
-        |          |_____ settings.py
-        |          |_____ urls.py
-        |          |_____ wsgi.py
+        |        |_____ __pycache__
+        |        |        |_____ __init__.cpython-39.pyc
+        |        |        |_____ settings.cpython-39.pyc
+        |        |        |_____ urls.cpython-39.pyc
+        |        |        |_____ wsgi.cpython-39.pyc
+        |        |  
+        |        |_____ __init__.py
+        |        |_____ settings.py
+        |        |_____ urls.py
+        |        |_____ wsgi.py
         |
         |_____ slurp
         |        |_____ __pycache__
-        |        |           |__ __init__.cpython-39.pyc
-        |        |           |__ admin.cpython-39.pyc
-        |        |           |__ models.cpython-39.pyc
+        |        |        |_____ __init__.cpython-39.pyc
+        |        |        |_____ admin.cpython-39.pyc
+        |        |        |_____ models.cpython-39.pyc
         |        |    
         |        |_____ migrations
-        |        |          |_____ __pycache__
-        |        |          |    |__ __init__.cpython-39.pyc
-        |        |          |    |__ 0001_initial.cpython-39.pyc
-        |        |          |
-        |        |          |_____ __init__.py
-        |        |          |_____ 0001_initial.py
+        |        |        |_____ __pycache__
+        |        |        |        |_____ __init__.cpython-39.pyc
+        |        |        |        |_____ 0001_initial.cpython-39.pyc
+        |        |        |
+        |        |        |_____ __init__.py
+        |        |        |_____ 0001_initial.py
         |        |
         |        |_____ __init__.py
         |        |_____ admin.py
