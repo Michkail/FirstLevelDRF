@@ -61,5 +61,4 @@ The test consists in creating a Web API Project for a JobBoard website. Similar 
 ♫  city  
 ♩  created_at
 ♪  available
-
 ```
