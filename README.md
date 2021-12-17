@@ -16,16 +16,16 @@ The test consists in creating a Web API Project for a JobBoard website. Similar 
 ```
     FirstLevelDRF
         |_____/job_slurp
-        |        |\_____ __pycache__
-        |        |        |_____ __init__.cpython-39.pyc
-        |        |        |_____ settings.cpython-39.pyc
-        |        |        |_____ urls.cpython-39.pyc
-        |        |        |_____ wsgi.cpython-39.pyc
-        |        |  
-        |        |_____ __init__.py
-        |        |_____ settings.py
-        |        |_____ urls.py
-        |        |_____ wsgi.py
+        |         |\_____ __pycache__
+        |         |         |\_____ __init__.cpython-39.pyc
+        |         |         |\_____ settings.cpython-39.pyc
+        |         |         |\_____ urls.cpython-39.pyc
+        |         |         \_____ wsgi.cpython-39.pyc
+        |         |  
+        |         |_____ __init__.py
+        |         |_____ settings.py
+        |         |_____ urls.py
+        |         |_____ wsgi.py
         |
         |_____ slurp
         |        |_____ __pycache__
