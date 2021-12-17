@@ -15,40 +15,40 @@ The test consists in creating a Web API Project for a JobBoard website. Similar 
 ## Folder Structure
 ```
     FirstLevelDRF
-        |_____/job_slurp
+        |\_____ job_slurp
         |         |\_____ __pycache__
         |         |         |\_____ __init__.cpython-39.pyc
         |         |         |\_____ settings.cpython-39.pyc
         |         |         |\_____ urls.cpython-39.pyc
         |         |          \_____ wsgi.cpython-39.pyc
         |         |  
-        |         |_____ __init__.py
-        |         |_____ settings.py
-        |         |_____ urls.py
-        |         |_____ wsgi.py
+        |         |\_____ __init__.py
+        |         |\_____ settings.py
+        |         |\_____ urls.py
+        |          \_____ wsgi.py
         |
-        |_____ slurp
-        |        |_____ __pycache__
-        |        |        |_____ __init__.cpython-39.pyc
-        |        |        |_____ admin.cpython-39.pyc
-        |        |        |_____ models.cpython-39.pyc
-        |        |    
-        |        |_____ migrations
-        |        |        |_____ __pycache__
-        |        |        |        |_____ __init__.cpython-39.pyc
-        |        |        |        |_____ 0001_initial.cpython-39.pyc
-        |        |        |
-        |        |        |_____ __init__.py
-        |        |        |_____ 0001_initial.py
-        |        |
-        |        |_____ __init__.py
-        |        |_____ admin.py
-        |        |_____ apps.py
-        |        |_____ models.py
-        |        |_____ tests.py
-        |        |_____ views.py
+        |\_____ slurp
+        |         |\_____ __pycache__
+        |         |         |\_____ __init__.cpython-39.pyc
+        |         |         |\_____ admin.cpython-39.pyc
+        |         |          \_____ models.cpython-39.pyc
+        |         |    
+        |         |\_____ migrations
+        |         |         |\_____ __pycache__
+        |         |         |         |\_____ __init__.cpython-39.pyc
+        |         |         |          \_____ 0001_initial.cpython-39.pyc
+        |         |         |
+        |         |         |\_____ __init__.py
+        |         |          \_____ 0001_initial.py
+        |         |
+        |         |\_____ __init__.py
+        |         |\_____ admin.py
+        |         |\_____ apps.py
+        |         |\_____ models.py
+        |         |\_____ tests.py
+        |          \_____ views.py
         |
-        |_____ manage.py       
+         \_____ manage.py       
 ```
 
 ## Only one model is needed for the project, you can call it SlurpOffer. It must have the following fields:
