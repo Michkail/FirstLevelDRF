@@ -15,7 +15,7 @@ The test consists in creating a Web API Project for a JobBoard website. Similar 
 ## Folder Structure
 ```
     FirstLevelDRF
-        |_____ job_slurp
+        |_____[job_slurp]
         |        |_____ __pycache__
         |        |        |_____ __init__.cpython-39.pyc
         |        |        |_____ settings.cpython-39.pyc
