@@ -20,7 +20,7 @@ The test consists in creating a Web API Project for a JobBoard website. Similar 
         |         |         |\_____ __init__.cpython-39.pyc
         |         |         |\_____ settings.cpython-39.pyc
         |         |         |\_____ urls.cpython-39.pyc
-        |         |         \_____ wsgi.cpython-39.pyc
+        |         |          \_____ wsgi.cpython-39.pyc
         |         |  
         |         |_____ __init__.py
         |         |_____ settings.py
