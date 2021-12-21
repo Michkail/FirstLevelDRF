@@ -1,6 +1,8 @@
 # FirstLevelDRF
 ```
-The test consists in creating a Web API Project for a JobBoard website. Similar to indeed.com, companies will be able to create and publish new job offers that people will then be able to see.
+The test consists in creating a Web API Project for a JobBoard website. Similar to
+indeed.com, companies will be able to create and publish new job offers 
+that people will then be able to see.
 ```
 
 ##  Client will be able to communicate with our Web API from 2 URL Endpoints:
